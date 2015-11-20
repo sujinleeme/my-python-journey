@@ -1,4 +1,4 @@
-# About file
+# About Code
 '''
 Course: Using Python to Access Web Data
 Topic: BeautifulSoup
