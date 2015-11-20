@@ -27,7 +27,6 @@ url = str(input('Enter url: '))
 position = (int(input('Enter position: '))-1)
 process = int(input('Enter process: '))
 
-
 data = []
 while process > 0:
     html = urllib.request.urlopen(url).read()
