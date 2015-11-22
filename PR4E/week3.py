@@ -3,7 +3,8 @@
 Course: Using Python to Access Web Data
 Topic: BeautifulSoup
 Date: 2015.11.12.
-About: Networked Programs
+About: Networked Programs - socket, urllib
+'''
 
 #1. socket
 import socket
