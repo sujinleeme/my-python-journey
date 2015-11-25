@@ -2,6 +2,7 @@
 I have been self-taught pythonist who started with zero-based programming since one of the hottest days of summer, 2014. This is a python learning respository to keep my assignments and exercises as well as enhance programming knowledges and skills.
 
 #### Favorites
+- Python 3
 - Community : [Django Girls Seoul](https://djangogirls.org/seoul/)
 - Hackerrank : [Follow me](https://www.hackerrank.com/sujinlee)
 
