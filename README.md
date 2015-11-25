@@ -10,6 +10,7 @@ I have been self-taught pythonist who started with zero-based programming since 
 ##### Completed | [Certificates](https://www.linkedin.com/in/leesujin)
 - 2013. 11. [Georgia Tech : Survery of Music Technology](https://www.coursera.org/learn/music-technology)
 - 2014. 6. [Codeacademy : Python](https://www.codecademy.com/learn/python)
+- 2014. 8. [Rice Univ. : An Introduction to Interactive Programming in Python 1 & 2](https://www.coursera.org/course/interactivepython1)
 - 2015. 2. [MIT : Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
 
 ##### On going
