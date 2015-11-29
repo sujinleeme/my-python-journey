@@ -1,4 +1,5 @@
 ''' This python script returns current weather of city you enter.
+    API : Yahoo Weather API (https://developer.yahoo.com/weather/)
     How to run this script:
     $python yahoo-weatherAPI.py
     Enter City Name :
