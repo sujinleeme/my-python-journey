@@ -8,7 +8,8 @@
 '''
 
 
-#Code Revision by Chinseok Lee :https://gist.github.com/allieus/4fa672395b75e9e7b907
+#Chinseok Lee revised my code in his gist. His work is professional.
+#link: https://gist.github.com/allieus/4fa672395b75e9e7b907
 
 import urllib.request, urllib.parse, json, ssl
 scontext = ssl.SSLContext(ssl.PROTOCOL_TLSv1)
