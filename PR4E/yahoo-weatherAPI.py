@@ -7,6 +7,9 @@
     Output : Current Weather in seoul: Light Rain, 41F/5C, (Sun, 29 Nov 2015 7:59 pm KST)
 '''
 
+
+#Code Revision by Chinseok Lee :https://gist.github.com/allieus/4fa672395b75e9e7b907
+
 import urllib.request, urllib.parse, json, ssl
 scontext = ssl.SSLContext(ssl.PROTOCOL_TLSv1)
 
