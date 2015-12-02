@@ -2,9 +2,9 @@
 I have been self-taught pythonist who started with zero-based programming since one of the hottest days of summer, 2014. This is a python learning respository to keep my assignments and exercises as well as enhance programming knowledges and skills.
 
 #### Favorites
-- Python 3 & Django
-- Community : [Django Girls Seoul](https://djangogirls.org/seoul/)
-- Hackerrank : [Follow me](https://www.hackerrank.com/sujinlee)
+- Talking Python 3 & Django
+- Lovely Community consists of super coaches & women developers : [Django Girls Seoul](https://djangogirls.org/seoul/)
+- Solving Algorithm problems from Hackerrank : [Follow me](https://www.hackerrank.com/sujinlee)
 
 ### Online Courses
 ##### Completed | [Certificates](https://www.linkedin.com/in/leesujin)
