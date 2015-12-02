@@ -1,12 +1,11 @@
 #1. Json 
 ''' sum list of count '''
-
 import urllib.request
-import requests
-url = 'http://python-data.dr-chuck.net/comments_190126.json'
-data = requests.get(url).json()
-x = sum([i['count'] for i in (data['comments'])])
-print (x)
+def count(url):
+    data = requests.get(url).json()
+    return sum([i['count'] for i in (data['comments'])])
+    
+print (cout('http://python-data.dr-chuck.net/comments_190126.json')
 
 #2. Calling JSON API
 ''' retrieve the first place_id from the JSON.
