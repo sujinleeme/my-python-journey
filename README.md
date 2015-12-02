@@ -2,7 +2,7 @@
 I have been self-taught pythonist who started with zero-based programming since one of the hottest days of summer, 2014. This is a python learning respository to keep my assignments and exercises as well as enhance programming knowledges and skills.
 
 #### Favorites
-- Python 3
+- Python 3 & Django
 - Community : [Django Girls Seoul](https://djangogirls.org/seoul/)
 - Hackerrank : [Follow me](https://www.hackerrank.com/sujinlee)
 
@@ -14,4 +14,4 @@ I have been self-taught pythonist who started with zero-based programming since 
 - 2015. 2. [MIT : Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
 
 ##### On going
-- 2015. 9. [Univ. of Michigan : Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+- 2015. 9.~ [Univ. of Michigan : Python for Everybody Specialization](https://www.coursera.org/specializations/python)
