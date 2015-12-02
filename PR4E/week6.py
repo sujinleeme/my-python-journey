@@ -8,8 +8,10 @@ def count(url):
 print (cout('http://python-data.dr-chuck.net/comments_190126.json')
 
 #2. Calling JSON API
-''' retrieve the first place_id from the JSON.
-A place ID is a textual identifier that uniquely identifies a place as within Google Maps.'''
+'''
+retrieve the first place_id from the JSON.
+A place ID is a textual identifier that uniquely identifies a place as within Google Maps.
+'''
 import requests
 def get_placeID(place):
     baseurl = 'http://maps.googleapis.com/maps/api/geocode/json'
