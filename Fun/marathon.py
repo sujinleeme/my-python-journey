@@ -1,7 +1,3 @@
-# title : crawling event data in pathetic old marathon website
-# website : http://www.roadrun.co.kr/schedule/
-# Korean : 마라톤 웹사이트 이벤트(2016부터) 데이터 크롤링
-
 # -*- coding: utf-8 -*-
 import re
 import datetime
@@ -64,6 +60,8 @@ def data_formatting(data):
     print('Data formatting...')
     return(data)
 
+# read evevnt data since first event in 2016
+# link: http://www.roadrun.co.kr/schedule/view.php?no=6198
 all_data = (all_events(6198))
 print('Ready to save {} events in file'.format(len(all_data)))
 
