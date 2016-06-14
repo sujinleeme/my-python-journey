@@ -15,8 +15,8 @@ def count_annual_event():
     table = soup.find('body').find_all('table')[5:6]
     trs = [tr.find_all('table')[3] for tr in table][0].find_all('tr')
     total = len(trs[::2])
-    print("Date {}".format(datetime.datetime.now()))
-    print("Ready to crawl {} marathon Events since 2016 | ".format(total))
+    print('Working Date : {}'.format(datetime.datetime.now()))
+    print("Ready to crawl {} marathon events since 2016".format(total))
     return(total)
 
 def extract_event_data(url):
@@ -32,7 +32,9 @@ def extract_event_data(url):
 def all_events(start):
     #store all data in empty list
     all_data = []
-    end = int(start) + int(count_annual_event())
+    total = int(count_annual_event())
+    #get final URL query
+    end = int(start) + total
     print("Collecting data... wait for a second.")
     try:
         for i in range(start, end):
@@ -43,6 +45,7 @@ def all_events(start):
         print("Merge all events data...")
     except:
         print("Fail to read contents")
+    print("{} events are empty.".format(total-len(all_data)))
     return(data_formatting(all_data))
 
 def data_formatting(data):
@@ -68,12 +71,12 @@ def data_formatting(data):
 # read evevnt data since first event in 2016
 # link: http://www.roadrun.co.kr/schedule/view.php?no=6198
 all_data = (all_events(6198))
-print('Ready to save {} events in file'.format(len(all_data)))
+print("Ready to save {} events in file".format(len(all_data)))
 
-# save file
+# save output in event_data.py
 with open("event_data.py", "w") as f:
     try:
         f.write('data={}'.format(str(all_data)))
-        print('Updated all data successfully!')
+        print("Updated all data successfully!")
     except:
-        print('Error processing')
+        print("Error processing")
