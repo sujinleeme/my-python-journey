@@ -74,6 +74,3 @@ with open("event_data.py", "w") as f:
         print('Updated all data successfully!')
     except:
         print('Error processing')
-
-#info[3] = '{}/{}/{} {}:{}'.format(*(re.findall('\d+', info[3])))
-#info[9] = '{}/{}/{} - {}/{}/{}'.format(*(re.findall('\d+', info[])))
