@@ -1,4 +1,4 @@
-# title : crawling event data in pathetic old marathon website
+# title : crawling event data in pathetic old Korean marathon website
 # website : http://www.roadrun.co.kr/schedule/
 # Korean : 마라톤 웹사이트 이벤트(2016부터) 데이터 크롤링
 
