@@ -15,7 +15,8 @@ def count_annual_event():
     table = soup.find('body').find_all('table')[5:6]
     trs = [tr.find_all('table')[3] for tr in table][0].find_all('tr')
     total = len(trs[::2])
-    print("Ready to crawl {} marathon Events since 2016 | ".format(total), datetime.datetime.now())
+    print("Date {}".format(datetime.datetime.now()))
+    print("Ready to crawl {} marathon Events since 2016 | ".format(total))
     return(total)
 
 def extract_event_data(url):
