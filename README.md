@@ -4,7 +4,7 @@ I have been self-taught pythonist who started with zero-based programming since 
 ### Favorites
 - Talking with Python 3 :snake: & Django Web Framework
 - Lovely Community consists of super coaches & women developers : [Django Girls Seoul](https://djangogirls.org/seoul/)
-- Solving Algorithm problems in HackerRank & HackerEarth: Follow me - [HarckerRank](https://www.hackerrank.com/sujinlee), [HacekerRank](https://www.hackerearth.com/@sujinlee.me)
+- Solving Algorithm problems in HackerRank & HackerEarth: Follow me - [HarckerRank](https://www.hackerrank.com/sujinlee), [HacekerEarth](https://www.hackerearth.com/@sujinlee.me)
 
 ### Projects related to Python 
 - My official website : [Site](http://www.sujinlee.me/), [Source](https://github.com/sujinleeme/official-website)
