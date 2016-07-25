@@ -20,6 +20,9 @@ I have been self-taught pythonist who started with zero-based programming since 
 ##### On going
 - 2015. 9.~ [Univ. of Michigan : Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
+### Translation
+- Django Girls Tutorial & Extended Tutorial [(Korean)](tutorial.djangogirls.org/ko)
+
 ```python
 print(sujin)
 ```
