@@ -1,10 +1,10 @@
 ## About
-I have been self-taught pythonist who started with zero-based programming since one of the hottest days of summer, 2014. This is a python learning respository to keep my assignments and exercises as well as enhance programming knowledges and skills.
+I have been self-taught pythonist who started with zero-based programming since one of the hottest days of summer, 2014. The reason why I started Programming was to make Music! I join a small Python study meetup every weekend and turned into django girls Seoul then communit After that. Now, I tell my self as python lover and Django Girls Seoul co-organizer. This is a python learning respository to keep my assignments and exercises as well as enhance programming knowledges and skills.
 
-#### Favorites
-- Talking with Python 3 & Django
+### Favorites
+- Talking with Python 3 :snake: & Django Web Framework
 - Lovely Community consists of super coaches & women developers : [Django Girls Seoul](https://djangogirls.org/seoul/)
-- Solving Algorithm problems in Hackerrank : [Follow me](https://www.hackerrank.com/sujinlee)
+- Solving Algorithm problems in HackerRank & HackerEarth: Follow me - [HarckerRank](https://www.hackerrank.com/sujinlee), [HacekerRank](https://www.hackerearth.com/@sujinlee.me)
 
 ### Projects related to Python 
 - My official website : [Site](http://www.sujinlee.me/), [Source](https://github.com/sujinleeme/official-website)
