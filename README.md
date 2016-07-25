@@ -6,6 +6,10 @@ I have been self-taught pythonist who started with zero-based programming since 
 - Lovely Community consists of super coaches & women developers : [Django Girls Seoul](https://djangogirls.org/seoul/)
 - Solving Algorithm problems in Hackerrank : [Follow me](https://www.hackerrank.com/sujinlee)
 
+### Projects related to Python 
+- My official website : [Site](http://www.sujinlee.me/), [Source](https://github.com/sujinleeme/official-website)
+- Marathon Event Web Crawling : [Site](http://www.sujinlee.me/marathon-event/), [Source](https://github.com/sujinleeme/official-website/tree/master/myrun)
+
 ### Online Courses
 ##### Completed | [Certificates](https://www.linkedin.com/in/leesujin)
 - 2013. 11. [Georgia Tech : Survery of Music Technology](https://www.coursera.org/learn/music-technology)
