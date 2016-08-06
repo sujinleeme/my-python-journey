@@ -1,3 +1,6 @@
+# geodload.py - http://www.pythonlearn.com/code/geodata.zip 
+# changed python2 to python3
+
 import sqlite3
 import json
 import codecs
